@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#103563</color>
+    <color name="colorPrimaryDark">#103563</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDarkRed">#B72A28</color>
+    <color name="colorGradientStart">#103563</color>
+    <color name="colorTertiaryTint60">#992E2822</color>
+    <color name="colorLegacyLightGrey">#EDEDED</color>
+    <color name="colorInactiveText">#CCCCCC</color>
+</resources>
